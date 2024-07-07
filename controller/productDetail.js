@@ -5,7 +5,6 @@ let image_viewport=document.querySelectorAll(".container .container_wrap .main-i
 
 const queryString = window.location.search;
 const params = new URLSearchParams(queryString);
-
 getdata();
 
 function getdata(){
