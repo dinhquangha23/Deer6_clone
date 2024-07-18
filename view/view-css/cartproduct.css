@@ -148,6 +148,7 @@ header.sticky-fix{
 .container .content .bill .table-bill{
     /* background-color: aqua; */
     text-align: left;
+    max-height: 10px;
     
 }
 

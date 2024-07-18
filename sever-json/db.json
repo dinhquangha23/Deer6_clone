@@ -121,26 +121,7 @@
       "price": "250000"
     }
   ],
-  "carts": [
-    {
-      "id": "9c78",
-      "title": "Áo Hoodie zipper Fomax",
-      "color": "while",
-      "size": "XL",
-      "quantity": "2",
-      "price": "240000 ",
-      "thumbnail": "https://deer6.vn/wp-content/uploads/2023/11/fomax-zipper-1000x1000.jpg"
-    },
-    {
-      "id": "8f45",
-      "title": "Áo Hoodie full zip mác cao su FOMAX",
-      "color": "while",
-      "size": "XL",
-      "quantity": "2",
-      "price": 240000,
-      "thumbnail": "https://deer6.vn/wp-content/uploads/2023/11/cao-su-web-1000x1000.jpg"
-    }
-  ],
+  "carts": [],
   "news": [
     {
       "id": "1",
